@@ -1,2 +1,2 @@
 # MCatfs
-Mcatfs - A Funny Burst Buffer File System For HPC, AI And Big Data Applications
+MCatfs - what a funny file system it is!
